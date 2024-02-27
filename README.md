@@ -1,4 +1,4 @@
-# Potential Course Content for CS391
+# React Course Content for CS391
 ## React-1: Introduction to React
 - Reusable components and layouts
 - Routing in React
